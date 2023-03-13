@@ -65,11 +65,14 @@ a {
 }
 
 .homeForm {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.formContent{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 80%;
-  margin-bottom: 30px;
 }
 
 .home__container {
@@ -127,6 +130,7 @@ a {
   width: 100%;
   padding: 15px;
   margin-bottom: 15px;
+  margin-right: 25px;
 }
 
 .modal__content {
